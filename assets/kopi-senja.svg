@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 620" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrasi Kopi Senja</title>
+  <desc id="desc">Cangkir kopi di atas meja kayu dengan matahari senja, biji kopi, dan daun.</desc>
+  <defs>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F9C66B"/><stop offset="1" stop-color="#E88D55"/></linearGradient>
+    <linearGradient id="cup" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#FFF9ED"/><stop offset="1" stop-color="#E9D7BB"/></linearGradient>
+    <linearGradient id="coffee" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#80523A"/><stop offset="1" stop-color="#3F281F"/></linearGradient>
+    <linearGradient id="table" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#B9794A"/><stop offset="1" stop-color="#8C5737"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#5B3928" flood-opacity=".18"/></filter>
+  </defs>
+  <circle cx="377" cy="252" r="190" fill="#F4E6D2"/>
+  <circle cx="377" cy="252" r="142" fill="url(#sun)"/>
+  <path d="M250 281 Q377 237 504 281" fill="none" stroke="#FBE8B8" stroke-width="7" stroke-linecap="round" opacity=".85"/>
+  <path d="M269 310 Q377 278 485 310" fill="none" stroke="#FBE8B8" stroke-width="7" stroke-linecap="round" opacity=".85"/>
+  <path d="M292 338 Q377 315 462 338" fill="none" stroke="#FBE8B8" stroke-width="7" stroke-linecap="round" opacity=".85"/>
+  <g fill="none" stroke="#4E7459" stroke-width="9" stroke-linecap="round">
+    <path d="M154 443 Q120 355 162 277"/><path d="M560 430 Q606 348 573 270"/>
+  </g>
+  <g fill="#78936D" stroke="#4E7459" stroke-width="3">
+    <ellipse cx="136" cy="359" rx="21" ry="48" transform="rotate(-40 136 359)"/>
+    <ellipse cx="170" cy="315" rx="19" ry="45" transform="rotate(35 170 315)"/>
+    <ellipse cx="153" cy="400" rx="19" ry="42" transform="rotate(-52 153 400)"/>
+    <ellipse cx="594" cy="350" rx="22" ry="48" transform="rotate(42 594 350)"/>
+    <ellipse cx="564" cy="309" rx="18" ry="42" transform="rotate(-32 564 309)"/>
+    <ellipse cx="579" cy="399" rx="20" ry="43" transform="rotate(49 579 399)"/>
+  </g>
+  <ellipse cx="363" cy="492" rx="230" ry="38" fill="#5C3C2D" opacity=".13"/>
+  <path d="M104 460 Q360 416 616 460 L594 535 Q360 578 126 535Z" fill="url(#table)"/>
+  <path d="M126 487 Q360 527 594 487 M137 514 Q360 550 583 514" fill="none" stroke="#D49A67" stroke-width="5" opacity=".65"/>
+  <g filter="url(#shadow)">
+    <path d="M445 327 C505 303 536 346 516 388 C503 417 476 418 450 406" fill="none" stroke="#E7D4B7" stroke-width="27"/>
+    <path d="M445 327 C505 303 536 346 516 388 C503 417 476 418 450 406" fill="none" stroke="#C8AA87" stroke-width="8"/>
+    <path d="M240 302 Q235 292 251 289 L448 289 Q465 294 459 312 L442 419 Q437 448 407 452 L292 452 Q265 448 260 420Z" fill="url(#cup)" stroke="#D7C3A3" stroke-width="4"/>
+    <ellipse cx="354" cy="300" rx="108" ry="28" fill="#E3D0B3"/>
+    <ellipse cx="354" cy="297" rx="94" ry="20" fill="url(#coffee)"/>
+    <path d="M330 296 Q351 278 371 296 Q350 315 330 296Z" fill="#E5B979" opacity=".9"/>
+    <path d="M350 292 Q371 280 386 293 Q368 306 350 292Z" fill="#E5B979" opacity=".9"/>
+    <path d="M289 370 Q300 400 330 406" fill="none" stroke="#FFFDF5" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+  </g>
+  <g fill="#553729" stroke="#3D281F" stroke-width="3">
+    <ellipse cx="199" cy="480" rx="20" ry="31" transform="rotate(-28 199 480)"/><path d="M186 457 Q205 479 210 503" fill="none" stroke="#C9976C" stroke-width="4"/>
+    <ellipse cx="519" cy="486" rx="18" ry="29" transform="rotate(32 519 486)"/><path d="M506 462 Q521 485 528 509" fill="none" stroke="#C9976C" stroke-width="4"/>
+    <ellipse cx="550" cy="453" rx="14" ry="22" transform="rotate(52 550 453)"/><path d="M536 449 Q551 451 565 458" fill="none" stroke="#C9976C" stroke-width="3"/>
+  </g>
+  <g fill="#FFF5DF"><circle cx="215" cy="178" r="5"/><circle cx="526" cy="207" r="6"/><circle cx="473" cy="119" r="4"/></g>
+  <g stroke="#FFF5DF" stroke-width="5" stroke-linecap="round"><path d="M203 212 v17 M194 220 h18"/><path d="M529 245 v16 M521 253 h16"/></g>
+</svg>
